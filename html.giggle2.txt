@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giggle Coin ($GIGGLE) – The Funniest 1000x Meme Coin!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .banner {
+            background-color: #ffcc00;
+            padding: 20px;
+            font-size: 30px;
+            font-weight: bold;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 25px;
+            font-size: 18px;
+            color: white;
+            background-color: #ff4500;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #e63e00;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">🚀 Giggle Coin ($GIGGLE) – The Funniest 1000x Meme Coin! 🚀</div>
+    <div class="container">
+        <p><strong>Giggle Coin ($GIGGLE)</strong> is the ultimate meme-powered cryptocurrency designed to bring laughter, community, and innovation to the world of digital assets. Built on a secure and scalable blockchain, Giggle is more than just a meme—it’s a movement.</p>
+        
+        <h2>Why Giggle?</h2>
+        <ul>
+            <li>✅ 1000x Potential – The meme coin that could turn you into a billionaire overnight! 🚀</li>
+            <li>✅ Community-Driven – Powered by an engaged and ever-growing community of meme enthusiasts.</li>
+            <li>✅ Deflationary & Rewarding – A smart tokenomics model that rewards holders.</li>
+            <li>✅ GiggleVerse – Future plans include NFT integrations, meme contests, and exclusive partnerships.</li>
+            <li>✅ Low Fees & Fast Transactions – Built for seamless and cost-effective transactions.</li>
+            <li>✅ Elon & Trump Approved – Even the biggest names can't resist the power of $GIGGLE!</li>
+        </ul>
+        
+        <p>Join the funniest revolution in crypto! Because in a world full of volatility, a little giggle can go a long way. 🚀😆</p>
+        
+        <a href="https://dexscreener.com/?rankBy=pairAge&order=asc" class="button" target="_blank">Take to Coin</a>
+    </div>
+    <div class="footer">Thanku & Tanku! 😆</div>
+</body>
+</html>
